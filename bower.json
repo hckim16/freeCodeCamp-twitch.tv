@@ -1,0 +1,22 @@
+{
+  "name": "twitch",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Hyo Chang Kim <hck@hyochangkim.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hckim16/twitch",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  }
+}

@@ -1,0 +1,28 @@
+.spacer{
+    padding: 3%;
+  }
+  
+  .block{
+    background-color: black;
+    opacity: .75;
+    color: white;
+    padding: 50px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+  }
+  
+  a{
+    color: white;
+  }
+  
+  body{ 
+    background: url("https://www.twitch.tv/p/assets/uploads/combologo_474x356.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
